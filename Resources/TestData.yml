@@ -1,0 +1,6 @@
+RegistrationForm:
+  FirstName: Software
+  LastName: TestLab
+
+urls:
+  Google: https://www.google.com.au
